@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raymondreblando
 - 👀 I’m interested in music, gaming, and learning new technologies
-- 🌱 I’m currently learning react and nextjs
+- 🌱 I’m currently learning laravel, react and nextjs
 - 💞️ I’m looking to collaborate on team projects
 - 📫 You can contact me in my email raymond.republica.reblando@gmail.com
 
